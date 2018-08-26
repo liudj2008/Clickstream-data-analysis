@@ -1,6 +1,6 @@
 # Clickstream-data-analysis
 
-We herein explored clickstream data of Wikipedia, the largest go-to reference website, for potential business values from the data. The analysis we provided here could be easily customized to provide real-world business impacts.
+We herein explored clickstream data of Wikipedia, the largest go-to reference website, for potential business values from the data. The analysis we provided here could be easily generalized to provide real-world business impacts.
 
 ● Topic recommendation
 
