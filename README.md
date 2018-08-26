@@ -12,4 +12,4 @@ We herein explored clickstream data of Wikipedia, the largest go-to reference we
 
 3. Profits prediction
 
-   Nowadays, profits obtained from ad clicks are the major source of profits for internet companies. The algorithm we developed here will predict the profits for specific ad and the profits for specific page.
+   Nowadays, profits obtained from ad clicks are the major source of profits for internet companies. The algorithm we developed here will 1) identify the most profitable articles for our ads based on NLP and 2) predict the profits for specific ad based on clickstream data.
